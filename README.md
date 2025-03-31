@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Fin, and I'm a front-end development, I enjoy developing websites . I'm looking for a new job。
+My name is Fin, and I'm a front-end development, I enjoy developing websites . 
 
 <!--
 **sunyangy/sunyangy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
