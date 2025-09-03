@@ -2,7 +2,7 @@
 
 My name is Fin, and I'm a front-end development, I enjoy developing websites . 
 
-If you want to know about me, please visit my personal website: https://fin-portfolio.vercel.app/
+If you want to know about me, please visit my personal website: https://fin-portfolio.vercel.app
 
 <!--
 **sunyangy/sunyangy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
