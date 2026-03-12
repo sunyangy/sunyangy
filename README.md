@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-“Face the world with independence, serenity, courage, and optimism. Wander far and read deeply.”
-
 My name is Fin, and I'm a front-end development, I enjoy developing websites .
 
 If you want to know about me, please visit my personal website: https://fin-portfolio.vercel.app
